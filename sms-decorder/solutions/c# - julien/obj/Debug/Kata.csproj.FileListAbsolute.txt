@@ -1,0 +1,10 @@
+G:\Dropbox\development\kata\Kata\obj\Debug\Kata.csprojResolveAssemblyReference.cache
+G:\Dropbox\development\kata\Kata\bin\Debug\Kata.dll
+G:\Dropbox\development\kata\Kata\bin\Debug\Kata.pdb
+G:\Dropbox\development\kata\Kata\bin\Debug\nunit.core.dll
+G:\Dropbox\development\kata\Kata\bin\Debug\nunit.framework.dll
+G:\Dropbox\development\kata\Kata\bin\Debug\nunit.core.interfaces.dll
+G:\Dropbox\development\kata\Kata\bin\Debug\nunit.framework.xml
+G:\Dropbox\development\kata\Kata\obj\Debug\Kata.dll
+G:\Dropbox\development\kata\Kata\obj\Debug\Kata.pdb
+G:\Dropbox\development\kata\Kata\bin\Debug\dictionnaire.txt
